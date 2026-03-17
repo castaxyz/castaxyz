@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @castaxyz
-- 🌱 I’m currently learning systems engineering
-- 📫 How to reach me castaxyz@gmail.com
+> “Silicon is where thought meets matter.”
+> — Carver Mead
